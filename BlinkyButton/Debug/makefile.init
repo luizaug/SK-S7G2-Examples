@@ -1,0 +1,14 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Renesas\Synergy\e2studio_v7.3.0_ssp_v1.6.0\toolchains\gcc_arm\7.2.1_2017q4\bin\;C:\Renesas\Synergy\e2studio_v7.3.0_ssp_v1.6.0\Utilities;C:/Renesas/Synergy/e2studio_v7.3.0_ssp_v1.6.0/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.181/jre/bin/client;C:/Renesas/Synergy/e2studio_v7.3.0_ssp_v1.6.0/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.181/jre/bin;C:/Renesas/Synergy/e2studio_v7.3.0_ssp_v1.6.0/eclipse//features/com.renesas.jre.win32.win32.x86_1.8.0.181/jre/lib/i386;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Users\USUARIO\AppData\Local\Microsoft\WindowsApps;;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\Renesas\Synergy\e2studio_v7.3.0_ssp_v1.6.0\eclipse
+export TCINSTALL=C:\Renesas\Synergy\e2studio_v7.3.0_ssp_v1.6.0\toolchains\gcc_arm\7.2.1_2017q4$(call arg1,\)
+export CWD=$(CURDIR)
+export AMS_LICENSE_PATH=C:\Renesas\Synergy\e2studio_v7.3.0_ssp_v1.6.0\internal\projectgen\arm\licenses\SSP_License_Example_EvalLicense_20180531.xml
+export SECURE_BUILD_COMMAND=C:\Renesas\Synergy\e2studio_v7.3.0_ssp_v1.6.0\Utilities\\/isdebuild
+export TC_VERSION=7.2.1.20170904
+export AMS_KEEP_FILE=false
+export PWD=$(CURDIR)
+export GCC_VERSION=7.2.1
